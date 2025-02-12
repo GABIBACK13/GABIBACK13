@@ -9,4 +9,4 @@
 
 -=-
 -  see my static portfolio <a href="https://gabiback13.github.io/Portfolio/">here📚</a>!
--  see my professional resume(CV) <a href="https://github.com/GABIBACK13/curriculo">here📝</a> !
+-  see my professional resume(CV) <a href="https://gabiback13.github.io/curriculo/">here📝</a> !
