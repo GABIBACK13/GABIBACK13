@@ -1,4 +1,4 @@
-#Know me
+# Know me
 - 🤓 Hi, I'm Gabriel Luis Back, I have 19 years old and like tecnology!
 - 👀 I'm interested in improving my web development skills
 - 🌱 I'm currently learning software engenire, API's development and mySQL database.
