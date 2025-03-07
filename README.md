@@ -21,8 +21,8 @@
 ###
 
 - 🤓 Hi, I'm Gabriel Luis Back, I have 19 years old and like tecnology!
-- 👀 I'm interested in improving my web development skills
-- 🌱 I'm currently learning software engenire, API's development and mySQL database.
+- 👀 I'm interested in improving my software development skills
+- 🌱 I'm currently learning software engenire, React.js and data structures.
 - 🧑‍💻 Currently, I'm looking for an internship in the web development area.
 
 -  see my static portfolio <a href="https://gabiback13.github.io/Portfolio/">here📚</a>!
