@@ -17,13 +17,16 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
+<small>The information about me may be out of date. I am currently focusing on work and have not taken the time to update it. Please contact me directly for more information.
+</small>
+<hr/>
 ###
 
 - 🤓 Hi, I'm Gabriel Luis Back, I have 19 years old and like tecnology!
 - 👀 I'm interested in improving my software development skills
 - 🌱 I'm currently learning software engenire and data structures.
-- 🧑‍💻 Currently, I'm looking for an job in the development area.
+- 🧑‍💻 Currently, I'm working as developer in MCW .
+  
 
 -  see my static portfolio <a href="https://gabiback13.github.io/Portfolio/">here📚</a>!
 -  see my professional resume(CV) <a href="https://gabiback13.github.io/curriculo/">here📝</a> !
